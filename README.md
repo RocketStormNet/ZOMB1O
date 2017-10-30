@@ -1,4 +1,4 @@
-# ZOMB1O
+# ZOMB1O ![](https://img.shields.io/badge/LudumDare-27-orange.svg)
 Small game made for Ludum Dare
 
 Written in [Haxe](https://haxe.org/) using [HaxeFlixel Framework](http://haxeflixel.com/)
